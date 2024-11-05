@@ -1,2 +1,2 @@
-# demo_github
+# GithubDemo
 edit README
