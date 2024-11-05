@@ -1,2 +1,2 @@
 ini file1
-menambah line baru pada file1
+menambah line baru pada file1.txt
